@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153789535090",
+    "project_id": "vaccination-management-47948",
+    "storage_bucket": "vaccination-management-47948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153789535090:android:9cd39631c61007ab32c3eb",
+        "android_client_info": {
+          "package_name": "com.example.vaccination_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153789535090-9letle9sbti3masof50l91ie4pmiknq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQIJxmHzVKTrk-HhxiRx12tS8oQjjntw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153789535090-9letle9sbti3masof50l91ie4pmiknq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
